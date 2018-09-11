@@ -10,7 +10,7 @@ Check out the [easy step-by-step guide for the VPS provider vultr](/docs/mastern
 
 
 **THE FOLLOWING CONTENT IS NOT FROM c3x' DEVELOPMENT TEAM**
-**So please be aware that this service is a third party service but modified by us to fit into the C3Xcoin world.**
+**So please be aware that this service is a third party service but modified by us to fit into the C3Xcoin world !**
 
 
 
