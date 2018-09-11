@@ -3,7 +3,8 @@
 
 The development team of C3Xcoin decided to choose **Nodemaster** to give you an easy way to setup and manage your masternodes.
 
-Recommended VPS: <a href="https://www.vultr.com/"><img src="https://www.vultr.com/media/banner_2.png" width="468" height="60"></a>
+Recommended VPS:
+<a href="https://www.vultr.com/?ref=7380572"><img src="https://www.vultr.com/media/banner_2.png" width="468" height="60"></a>
 
 Check out the [easy step-by-step guide for the VPS provider vultr](/docs/masternode_vps.md) from the developer of Nodemaster that will guide you through the hardest parts.
 
